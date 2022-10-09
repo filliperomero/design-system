@@ -10465,6 +10465,23 @@
   "resolved" "https://registry.npmjs.org/tty-browserify/-/tty-browserify-0.0.0.tgz"
   "version" "0.0.0"
 
+"turbo-darwin-arm64@1.5.5":
+  "integrity" "sha512-Dmxr09IUy6M0nc7/xWod9galIO2DD500B75sJSkHeT+CCdJOWnlinux0ZPF8CSygNqymwYO8AO2l15/6yxcycg=="
+  "resolved" "https://registry.npmjs.org/turbo-darwin-arm64/-/turbo-darwin-arm64-1.5.5.tgz"
+  "version" "1.5.5"
+
+"turbo@^1.5.5":
+  "integrity" "sha512-PVQSDl0STC9WXIyHcYUWs9gXsf8JjQig/FuHfuB8N6+XlgCGB3mPbfMEE6zrChGz2hufH4/guKRX1XJuNL6XTA=="
+  "resolved" "https://registry.npmjs.org/turbo/-/turbo-1.5.5.tgz"
+  "version" "1.5.5"
+  optionalDependencies:
+    "turbo-darwin-64" "1.5.5"
+    "turbo-darwin-arm64" "1.5.5"
+    "turbo-linux-64" "1.5.5"
+    "turbo-linux-arm64" "1.5.5"
+    "turbo-windows-64" "1.5.5"
+    "turbo-windows-arm64" "1.5.5"
+
 "type-check@^0.4.0":
   "integrity" "sha512-XleUoc9uwGXqjWwXaUTZAmzMcFZ5858QA2vvx1Ur5xIcixXIP+8LnFDgRplU30us6teqdlskFfu+ae4K79Ooew=="
   "resolved" "https://registry.npmjs.org/type-check/-/type-check-0.4.0.tgz"
