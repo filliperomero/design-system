@@ -7,7 +7,7 @@ export default {
   args: {
     children: 'H2 Heading',
   },
-} as Meta
+} as Meta<HeadingProps>
 
 export const Primary: StoryObj<HeadingProps> = {}
 

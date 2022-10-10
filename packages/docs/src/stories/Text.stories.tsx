@@ -8,7 +8,7 @@ export default {
     children:
       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt officiis praesentium dolore illo quis ratione tempore! Quam possimus reiciendis atque aspernatur labore iusto qui quis provident officiis doloremque, rem vitae?',
   },
-} as Meta
+} as Meta<TextProps>
 
 export const Primary: StoryObj<TextProps> = {}
 
