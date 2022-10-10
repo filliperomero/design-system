@@ -1252,6 +1252,7 @@
   dependencies:
     "@radix-ui/react-avatar" "^1.0.0"
     "@stitches/react" "^1.2.8"
+    "phosphor-react" "^1.4.1"
 
 "@filliperomero/tokens@*", "@filliperomero/tokens@file:/Users/filliperomero/Documents/www/design-system/packages/tokens":
   "resolved" "file:packages/tokens"
