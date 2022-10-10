@@ -5,8 +5,29 @@ export default {
   title: 'Typography/Text',
   component: Text,
   args: {
+    size: 'md',
     children:
       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt officiis praesentium dolore illo quis ratione tempore! Quam possimus reiciendis atque aspernatur labore iusto qui quis provident officiis doloremque, rem vitae?',
+  },
+  argTypes: {
+    size: {
+      options: [
+        'xxs',
+        'xs',
+        'sm',
+        'md',
+        'lg',
+        'xl',
+        '2xl',
+        '4xl',
+        '5xl',
+        '6xl',
+        '7xl',
+        '8xl',
+        '9xl',
+      ],
+      control: { type: 'inline-radio' },
+    },
   },
 } as Meta<TextProps>
 
