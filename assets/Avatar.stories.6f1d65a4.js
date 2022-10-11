@@ -1,0 +1,2 @@
+import{A as t}from"./index.9692b4a4.js";import"./index.6d17fb13.js";import"./iframe.a9c2597c.js";import"./index.967296de.js";import"./jsx-runtime.11d4e711.js";const s={title:"Data display/Avatar",component:t,args:{src:"https://github.com/filliperomero.png",alt:"Fillipe Romero"},argTypes:{src:{description:"Source URL that the avatar will be loaded",control:{type:"text"}}}},l={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{l as Primary,p as WithFallback,c as __namedExportsOrder,s as default};
+//# sourceMappingURL=Avatar.stories.6f1d65a4.js.map
